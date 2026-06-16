@@ -1,0 +1,41 @@
+medicine_id,medicine_name,unit_type,tablets_per_piece,purchase_price_per_unit,selling_price_per_unit
+1,Dolo 650,TABLET,15.0,3.0,2.2
+2,Paracetamol,TABLET,15.0,2.0,1.5
+3,Aceclofenac,TABLET,10.0,12.0,7.5
+4,Diclofenac,TABLET,10.0,10.0,6.5
+5,Etoricoxib,TABLET,10.0,18.0,12.0
+6,Naproxen,TABLET,10.0,14.0,9.0
+7,Ibuprofen,TABLET,10.0,5.0,3.0
+8,Thiocolchicoside,TABLET,10.0,22.0,15.0
+9,Tizanidine,TABLET,10.0,15.0,9.5
+10,Baclofen,TABLET,10.0,16.0,11.0
+11,Pregabalin,CAPSULE,10.0,30.0,21.0
+12,Gabapentin,CAPSULE,10.0,35.0,25.0
+13,Methylcobalamin,TABLET,10.0,25.0,17.0
+14,Calcium Citrate,TABLET,15.0,12.0,8.0
+15,Shelcal 500,TABLET,15.0,11.0,7.0
+16,Vitamin D3 60000 IU,CAPSULE,4.0,30.0,18.0
+17,Pantoprazole,TABLET,15.0,6.0,3.5
+18,Rabeprazole,TABLET,15.0,7.0,4.5
+19,Omeprazole,TABLET,15.0,5.0,3.0
+20,Antacid Syrup,BOTTLE,,120.0,80.0
+21,Volini Gel,TUBE,,110.0,70.0
+22,Dynapar Gel,TUBE,,130.0,85.0
+23,Pain Relief Spray,SPRAY,,180.0,120.0
+24,Trypsin Chymotrypsin,TABLET,10.0,25.0,18.0
+25,Serratiopeptidase,TABLET,10.0,20.0,14.0
+26,Calcitriol,CAPSULE,10.0,28.0,18.0
+27,Vitamin B12,TABLET,10.0,18.0,12.0
+28,Multivitamin,TABLET,15.0,10.0,6.0
+29,Amoxicillin,CAPSULE,10.0,12.0,8.0
+30,Cefixime,TABLET,10.0,20.0,14.0
+31,Azithromycin,TABLET,3.0,35.0,25.0
+32,Diclofenac Injection,PIECE,,55.0,35.0
+33,Tramadol Injection,PIECE,,80.0,55.0
+34,Vitamin B12 Injection,PIECE,,65.0,45.0
+35,Methylprednisolone Injection,PIECE,,150.0,100.0
+36,Hydrocortisone Injection,PIECE,,120.0,80.0
+37,Crepe Bandage,PIECE,,180.0,120.0
+38,Cotton Roll,PIECE,,70.0,45.0
+39,Sterile Gauze Pack,PIECE,,50.0,30.0
+40,Adhesive Tape,PIECE,,40.0,25.0
